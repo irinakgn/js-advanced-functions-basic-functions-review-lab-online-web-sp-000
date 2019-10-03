@@ -23,5 +23,3 @@ var calculator = {
 function actionApplyer(){
 
 }
-
-
