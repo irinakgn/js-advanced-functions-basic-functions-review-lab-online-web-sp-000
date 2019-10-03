@@ -21,8 +21,8 @@ var calculator = {
 }
 
 function actionApplyer(){
-  
+
 }
-  
-  
+
+
 }
